@@ -56,10 +56,7 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40Daily_Configs%20%235
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#%40V2rayNG3%20%239
 hysteria2://wieZ9G0FbEecGx2kXaZLchtt@147.45.154.150:443?alpn=h3&sni=anymath.ir&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q#%40Change_IP1-HYS%20%234
-hysteria2://1f84e51f-c290-4426-9468-3060af826425@45.149.92.111:10000?sni=hk.gzcloud.shop&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1#Telegram:@config_proxy 
-hysteria2://1f84e51f-c290-4426-9468-3060af826425@gzddns.776577.xyz:52000?sni=gzddns.776577.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1#Telegram:@config_proxy 
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?security=tls&obfs=salamander&obfs-password=de8287cd33b05fa3&insecure=1&sni=www.google.com#@V2rayNG3
-hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2604:abc0:50::10:505b]:51458?sni=Ab.ac&obfs=salamander&obfs-password=mCywdi7xWEeKsMFK&insecure=1#Telegram:@config_proxy 
 hysteria2://@azadi_az_inja_migzare@all-v4.dgi000.store:443?security=tls&obfs=salamander&obfs-password=@azadi_az_inja_migzare&insecure=0&sni=all-v4.dgi000.store#@V2rayNG3
 hysteria2://AtTK3tiEA0@p1.punchline.ir:19037?security=tls&obfs=salamander&obfs-password=bipbip&insecure=1#@V2rayNG3
 hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?security=tls&obfs=salamander&obfs-password=bleepbloop&insecure=1#@V2rayNG3
@@ -498,3 +495,6 @@ hy2://J4MF5gYLAejSsZA1b0T3djeNGoI@44.243.233.105:16523?insecure=1&sni=bing.com# 
 hy2://KYPSpQi9oC@77.239.112.132:14055?obfs=salamander&obfs-password=v2raybluecrystal2&insecure=1# HYSTERIA-UDP  NL-77.239.112.132:14055
 hy2://KYPSpQi9oC@77.239.112.132:54075?obfs=salamander&obfs-password=v2raybluecrystal&insecure=1# HYSTERIA-UDP  NL-77.239.112.132:54075
 hy2://KevinZakarian@66.23.198.32:443?insecure=1&obfs=salamander&obfs-password=KevinZakarian&sni=www.eliv2ray.net# HYSTERIA-UDP  US-66.23.198.32:443
+hy2://M3mkhElU3oHZy4KB1GchIXuqAPg@13.213.73.208:32815?insecure=1# HYSTERIA-UDP  SG-13.213.73.208:32815
+hy2://NTA0MDg5OjEzMzI4ODo3YjA2ZDIyYThhN2M3NjRm@47.76.232.205:3074?insecure=1# HYSTERIA-UDP  HK-47.76.232.205:3074
+hy2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428/?insecure=1&sni=bing.com#Channel id: @@proxy_kafee

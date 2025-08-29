@@ -8696,6 +8696,11 @@ ssr://ejAxMTQuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LW
 ssr://ejAxMTUuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP3JlbWFya3M9TkVaeVpXVkpjbUZ1TFRNd01qRSUzRA==
 ssr://ejAxMTYuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT1kM2QzTG0xcFkzSnZjMjltZEM1amIyMGpWWE5sY2kxQloyVnVkRHBOYjNwcGJHeGhMelV1TUNocFVHaHZibVU3UTFCVmFWQm9iMjVsVDFNeE1WODBYekZzYVd0bFRXRmpUMU5ZS1VGd2NHeGxWMlZpUzJsMEx6WXdNaTQwTGpZb1MwaFVUVXdzYkdsclpVZGxZMnR2S1ZabGNuTnBiMjR2TVRBdU1FMXZZbWxzWlM4eE5FUXlOMDFwWTNKdlRXVnpjMlZ1WjJWeUx6WXVOUzR4TTBGalkyVndkRG92UTI5dWJtVmpkR2x2YmpwclpXVndMV0ZzYVhabCZyZW1hcmtzPU5FWnlaV1ZKY21GdUxUTXdNakklM0Q=
 ssr://ejAxMTcuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP3JlbWFya3M9TkVaeVpXVkpjbUZ1TFRNd01qTSUzRA==
+trojan://nfsyooyx-b7w7-zp07-n68h-bmswzkz3xkqr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/29 | 19:54
+trojan://ty5yva9h-zlwp-m2d7-kg80-91qmj4f0rp93@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://04jhl8x3-aa66-d5cl-0i30-fsgsyk33swf6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://1k5cocz2-wld2-ibhf-kwul-3u9gocbd3gar@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://auvak3dj-6mms-v15f-5gyk-v2drg1m0tgst@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
 trojan://%3AbC5%5Elakx%3E&#4FreeIran-3024
 trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@67.21.93.242:443?security=tls&sni=upay.com&allowInsecure=1&type=tcp#4FreeIran-3025
 trojan://006e3baa-cacd-4530-ae52-d633c4e9056d@51.161.35.200:443?type=tcp&sni=speed.cloudflare.com&allowInsecure=1#4FreeIran-3026
@@ -9993,8 +9998,3 @@ trojan://fafb4232-9659-4867-886d-e47f4bda283e@149.56.132.41:80?allowInsecure=1&s
 trojan://fc2e30d6-474a-42a4-8de2-32720698c97f@v02.gutingting.com:30038?security=tls&sni=v2hgc02.fuqiangren.com#4FreeIran-4318
 trojan://fddd2348-b67b-49aa-aaca-085d32f3f6fb@217.79.181.82:443?security=tls&sni=download.xn--mes358acgm99l.com&allowInsecure=1&type=tcp#4FreeIran-4319
 trojan://fed92b60-489d-11f0-8257-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#4FreeIran-4320
-trojan://giosZwLNqAUWxczWJDYqXQDgNLMYwbKI@ahgjs-4-tr-0.hkg-01.o-two.xyz:889?security=tls&sni=o-two.bond#4FreeIran-4321
-trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1ch-ovh.devefun.net#4FreeIran-4322
-trojan://hpS304VqvF@190.93.246.241:2087?security=tls&sni=panel.proxystore11.site&allowInsecure=1&type=tcp#4FreeIran-4323
-trojan://i8YdP0ivWoz5KEgN@151.115.62.113:444?security=tls&sni=pl-25a97ea5.xeovo.net&allowInsecure=1&type=tcp#4FreeIran-4324
-trojan://idc117okt@103.176.78.153:443?security=tls#4FreeIran-4325

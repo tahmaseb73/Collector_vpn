@@ -1,0 +1,68 @@
+
+2025-08-29T17:15:51.642Z: Starting config fetch...
+2025-08-29T17:15:51.642Z: Processing URLs: 9
+2025-08-29T17:15:51.642Z: Fetching https://raw.githubusercontent.com/10ium/V2ray-Config/refs/heads/main/Splitted-By-Protocol/tuic.txt
+2025-08-29T17:15:51.642Z: Fetching https://raw.githubusercontent.com/10ium/V2ray-Config/refs/heads/main/Splitted-By-Protocol/hysteria2.txt
+2025-08-29T17:15:51.642Z: Fetching https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/protocols/hysteria2.txt
+2025-08-29T17:15:51.642Z: Fetching https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Tuic.txt
+2025-08-29T17:15:51.642Z: Fetching https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/all
+2025-08-29T17:15:51.642Z: Fetching https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt
+2025-08-29T17:15:51.642Z: Fetching https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt
+2025-08-29T17:15:51.642Z: Fetching https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt
+2025-08-29T17:15:51.642Z: Fetching https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt
+2025-08-29T17:15:51.658Z: Processing 314 configs from https://raw.githubusercontent.com/10ium/V2ray-Config/refs/heads/main/Splitted-By-Protocol/hysteria2.txt
+2025-08-29T17:15:51.659Z: Processing 11 configs from https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Tuic.txt
+2025-08-29T17:15:51.659Z: Processing 45 configs from https://raw.githubusercontent.com/10ium/V2ray-Config/refs/heads/main/Splitted-By-Protocol/tuic.txt
+2025-08-29T17:15:51.659Z: Processing 58 configs from https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/protocols/hysteria2.txt
+2025-08-29T17:15:51.667Z: Processing 8206 configs from https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt
+2025-08-29T17:15:51.676Z: Processing 6601 configs from https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt
+2025-08-29T17:15:51.685Z: Processing 18017 configs from https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/all
+2025-08-29T17:15:51.689Z: Processing 33778 configs from https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt
+2025-08-29T17:15:51.710Z: Processing 51162 configs from https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt
+2025-08-29T17:15:51.710Z: Configs fetched: [{"protocol":"hysteria2://","count":362},{"protocol":"hy2://","count":0},{"protocol":"hysteria://","count":0},{"protocol":"ss://","count":107706},{"protocol":"shadowsocks://","count":0},{"protocol":"ssr://","count":36},{"protocol":"trojan://","count":10019},{"protocol":"tuic://","count":51},{"protocol":"tuic5://","count":0},{"protocol":"vless://","count":0},{"protocol":"vmess://","count":0},{"protocol":"wireguard://","count":0},{"protocol":"other://","count":7}]
+2025-08-29T17:15:51.710Z: Preparing to upload Hysteria2.txt with 362 configs
+2025-08-29T17:15:52.195Z: File Hysteria2.txt does not exist, will create new
+2025-08-29T17:15:52.195Z: Attempt 1 to update Hysteria2.txt
+2025-08-29T17:15:52.974Z: Successfully updated Hysteria2.txt
+2025-08-29T17:15:52.974Z: File Hysteria2.txt updated in GitHub
+2025-08-29T17:15:52.974Z: No configs for hy2://, skipping update
+2025-08-29T17:15:52.974Z: No configs for hysteria://, skipping update
+2025-08-29T17:15:52.974Z: Preparing to upload ShadowSocks.txt with 107706 configs
+2025-08-29T17:15:53.518Z: File ShadowSocks.txt does not exist, will create new
+2025-08-29T17:15:53.518Z: Attempt 1 to update ShadowSocks.txt
+2025-08-29T17:15:58.518Z: Network error on attempt 1 for ShadowSocks.txt: The operation was aborted
+2025-08-29T17:15:59.518Z: Attempt 2 to update ShadowSocks.txt
+2025-08-29T17:16:03.176Z: Failed to update ShadowSocks.txt on attempt 2: Invalid request.
+
+For 'properties/sha', nil is not a string.
+2025-08-29T17:16:04.176Z: Attempt 3 to update ShadowSocks.txt
+2025-08-29T17:16:07.694Z: Failed to update ShadowSocks.txt on attempt 3: Invalid request.
+
+For 'properties/sha', nil is not a string.
+2025-08-29T17:16:07.694Z: File ShadowSocks.txt failed to update in GitHub
+2025-08-29T17:16:07.694Z: No configs for shadowsocks://, skipping update
+2025-08-29T17:16:07.694Z: Preparing to upload ShadowsocksR.txt with 36 configs
+2025-08-29T17:16:08.014Z: File ShadowsocksR.txt does not exist, will create new
+2025-08-29T17:16:08.014Z: Attempt 1 to update ShadowsocksR.txt
+2025-08-29T17:16:08.602Z: Successfully updated ShadowsocksR.txt
+2025-08-29T17:16:08.602Z: File ShadowsocksR.txt updated in GitHub
+2025-08-29T17:16:08.602Z: Preparing to upload Trojan.txt with 10019 configs
+2025-08-29T17:16:08.899Z: File Trojan.txt does not exist, will create new
+2025-08-29T17:16:08.899Z: Attempt 1 to update Trojan.txt
+2025-08-29T17:16:13.359Z: Successfully updated Trojan.txt
+2025-08-29T17:16:13.359Z: File Trojan.txt updated in GitHub
+2025-08-29T17:16:13.359Z: Preparing to upload Tuic.txt with 51 configs
+2025-08-29T17:16:13.656Z: File Tuic.txt does not exist, will create new
+2025-08-29T17:16:13.656Z: Attempt 1 to update Tuic.txt
+2025-08-29T17:16:14.214Z: Successfully updated Tuic.txt
+2025-08-29T17:16:14.214Z: File Tuic.txt updated in GitHub
+2025-08-29T17:16:14.214Z: No configs for tuic5://, skipping update
+2025-08-29T17:16:14.214Z: No configs for vless://, skipping update
+2025-08-29T17:16:14.214Z: No configs for vmess://, skipping update
+2025-08-29T17:16:14.214Z: No configs for wireguard://, skipping update
+2025-08-29T17:16:14.214Z: Preparing to upload Other.txt with 7 configs
+2025-08-29T17:16:14.558Z: File Other.txt does not exist, will create new
+2025-08-29T17:16:14.558Z: Attempt 1 to update Other.txt
+2025-08-29T17:16:15.234Z: Successfully updated Other.txt
+2025-08-29T17:16:15.234Z: File Other.txt updated in GitHub
+2025-08-29T17:16:15.234Z: Total subrequests used: 23
